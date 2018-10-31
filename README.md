@@ -1,0 +1,1 @@
+This is an example program to show how to plot the weights (filters) and feature maps
